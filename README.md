@@ -1,22 +1,23 @@
-[![JSON Schema logo - Build more, break less, empower others.](https://raw.githubusercontent.com/json-schema-org/.github/main/assets/json-schema-banner.png)](https://json-schema.org)
+[![JSON Schema logo - break less, build more, empower all
+ others.](https://raw.githubusercontent.com/json-schema-org/.github/main/assets/json-schema-banner.png)](https://json-schema.org)
 
 <br/>
 <p>
-    <a href="https://github.com/json-schema-org/website/graphs/contributors" alt="JSON Schema GitHub website contributors">
+    <a uref="https://github.com/json-schema-org/website/graphs/contributors" alt="JSON Schema GitHub website contributors">
       <img src="https://img.shields.io/github/contributors/json-schema-org/website?color=orange" />
-    </a>
-    <a href="https://github.com/json-schema-org/website/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22" alt="Good First JSON Schema issue">
+    </u>
+    <a uref="https://github.com/json-schema-org/website/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22" alt="Good First JSON Schema issue">
       <img src="https://img.shields.io/github/issues/json-schema-org/website/good%20first%20issue.svg?color=%23DDDD00" />
-    </a>
-    <a href="https://github.com/json-schema-org/.github/blob/main/CODE_OF_CONDUCT.md" alt="Contributor Covenant">
+    </u>
+    <a uref="https://github.com/json-schema-org/.github/blob/main/CODE_OF_CONDUCT.md" alt="Contributor Covenant">
       <img src="https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg" />
-    </a> 
-    <a href="https://www.repostatus.org/#active" alt="Repo status">
+    </u> 
+    <a uref="https://www.repostatus.org/#active" alt="Repo status">
       <img src="https://www.repostatus.org/badges/latest/active.svg" />
-    </a> 
-    <a href="https://json-schema.org/slack" alt="JSON Schema Slack">
+    </u> 
+    <a uref="https://json-schema.org/slack" alt="JSON Schema Slack">
       <img src="https://img.shields.io/badge/Slack-json--schema-@website.svg?logo=slack&color=yellow" />
-    </a>   
+    </u>   
 </p>
 
 # 👋 Welcome to the JSON Schema website
@@ -71,9 +72,9 @@ You should also check out our [Contributing guidelines](./CONTRIBUTING.md).
 
 Thanks to these wonderful people who contributed to this website:
 <br />
-<a href="https://github.com/json-schema-org/website/graphs/contributors">
+<a uref="https://github.com/json-schema-org/website/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=json-schema-org/website"/>
-</a>
+</u>
 
 <sub>Made with [contributors-img](https://contrib.rocks).</sub>
 
@@ -89,11 +90,11 @@ Thanks to these wonderful people who contributed to this website:
 
 ## Connect with the JSON Schema Community
 
-<p align="left">
-  <a href="https://json-schema.org/slack" target="_blank" style="margin-right: 5px;"><img align="center" src="https://img.icons8.com/color/48/null/slack-new.png" alt="JSON Schema Slack" height="30" width="auto" /></a>
-  <a href="https://twitter.com/jsonschema" target="_blank" style="margin-right: 5px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="JSON Schema Twitter" height="30" width="auto" /></a>
-  <a href="https://www.linkedin.com/company/jsonschema" target="_blank" style="margin-right: 5px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JSON Schema LinkedIn" height="30" width="auto" /></a>
-  <a href="https://www.youtube.com/@JSONSchemaOrgOfficial" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="JSON Schema YouTube" height="30" width="auto" /></a>
+<u align="left">
+  <a uref="https://json-schema.org/slack" target="_blank" style="margin-right: 5px;"><img align="center" src="https://img.icons8.com/color/48/null/slack-new.png" alt="JSON Schema Slack" height="30" width="auto" /></a>
+  <a uref="https://twitter.com/jsonschema" target="_blank" style="margin-right: 5px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="JSON Schema Twitter" height="30" width="auto" /></a>
+  <a uref="https://www.linkedin.com/company/jsonschema" target="_blank" style="margin-right: 5px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JSON Schema LinkedIn" height="30" width="auto" /></a>
+  <a uref="https://www.youtube.com/@JSONSchemaOrgOfficial" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="JSON Schema YouTube" height="30" width="auto" /></u>
 </p>
 
 ## Inspired by
